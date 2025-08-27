@@ -95,6 +95,9 @@ font-size: 16px;
 .username{
     font-size: 18px;
 }
+.userImage{
+    margin: 10px;
+}
 .userImage>img{
     width: 100px;
     height: 100px;
